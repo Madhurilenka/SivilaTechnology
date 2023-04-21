@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Madhurilenka/SivilaTechnology/issues"
   },
-  "homepage": "https://github.com/Madhurilenka/SivilaTechnology#readme"
+  "homepage": "https://github.com/Madhurilenka/SivilaTechnology#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.4",
+    "nodemon": "^2.0.22"
+  }
 }
