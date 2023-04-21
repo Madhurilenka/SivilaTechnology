@@ -6,6 +6,9 @@ const UserSchema = new mongoose.Schema({
     phone: { type:String, required:true, unique:true,trim:true },
     email: { type:String, required:true,  unique:true,trim:true },
     password: { type:String, required:true,trim:true},
+    likes: { type:Array, default:[] },
+    comments: { type:Array, max:100 },
+    Dimonds: { type:Array, default:[] },
     
 },
     { timestamps: true });
