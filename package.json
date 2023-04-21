@@ -1,0 +1,19 @@
+{
+  "name": "sivilatechnology",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhurilenka/SivilaTechnology.git"
+  },
+  "author": "Madhuri lenka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madhurilenka/SivilaTechnology/issues"
+  },
+  "homepage": "https://github.com/Madhurilenka/SivilaTechnology#readme"
+}
